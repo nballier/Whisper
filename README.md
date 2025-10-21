@@ -7,6 +7,6 @@ WhisperSubtokensDictionary.json : a .JSON file with the Whisper IDs and the subt
 
 MultilingualCandidates.json : a .JSON file with the Whisper IDs and the subtoken strings from Whisper's English only models.
 
-MultilingualCandidates.json :  a .JSON file with the Wjisper IDs and the 20778 multilingual subtokens for 99 languages
+MultilingualCandidates.json :  a .JSON file with the Whisper IDs and the 20778 multilingual subtokens for 99 languages
 
 
